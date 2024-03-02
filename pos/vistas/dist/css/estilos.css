@@ -1,0 +1,27 @@
+/* Estilos adicionales */
+body {
+    background-color: #ffffff; /* Fondo blanco */
+  }
+  
+  .header-row {
+    background-color: #28a745; /* Color de fondo verde para la fila de encabezado */
+    border: 2px solid #ffffff; /* Borde blanco */
+  }
+  
+  .table tbody tr {
+    border: 2px solid #000000; /* Borde negro para las filas del cuerpo */
+  }
+  
+  .menu-btn {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos adicionales */
+.title-row {
+    background-color: #dc3545; /* Fondo rojo */
+    border: 2px solid #000000; /* Borde negro */
+    padding: 10px; /* Espaciado interno */
+    margin-bottom: 20px; /* Margen inferior */
+  }
+  
+  
